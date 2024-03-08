@@ -1,0 +1,23 @@
+{
+  "name": "chatbrew",
+  "version": "1.0.0",
+  "description": "ChatBrew is an innovative project focused on enhancing user engagement and interaction with web services through natural language processing capabilities. Our goal is to provide a seamless and personalized conversational experience for users across various digital platforms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Vadimtigermrr/ChatBrew.git"
+  },
+  "dependencies": {
+    "coffeeconverseai": "1.0.0",
+    "chainchatvv": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vadimtigermrr/ChatBrew/issues"
+  },
+  "homepage": "https://github.com/Vadimtigermrr/ChatBrew#readme"
+}
